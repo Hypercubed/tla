@@ -1,0 +1,29 @@
+{
+  "name": "tla",
+  "version": "0.0.0",
+  "description": "TLA Lovers App",
+  "private": false,
+  "bin": {
+    "tla": "./bin/tla"
+  },
+  "scripts": {
+    "test": "mocha -R spec",
+    "build": "node scripts/build"
+  },
+  "author": {
+    "name": "Jayson Harshbarger",
+    "email": "hypercubed@gmail.com",
+    "url": "https://github.com/Hypercubed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hypercubed/tla"
+  },
+  "license": "MIT",
+  "bugs": "https://github.com/Hypercubed/tla/issues",
+  "dependencies": {
+    "autocmdr": "~0.0.4",
+    "commander": "^2.8.1"
+  },
+  "devDependencies": {}
+}
