@@ -3,7 +3,7 @@ tla
 
 # Description
 
-TLA L App
+TLA Lovers App
 
 # Usage
 
@@ -16,13 +16,10 @@ $ npm install -g Hypercubed/tla
 ```
 Usage: tla [options] [command]
 
-
 Commands:
 
-  lines [options] [N]  A commander command
+  lines [options] [N]  Return N random acronym lines
   sets [options] [N]   Return N random acronyms
-
-TLA Lovers App
 
 Options:
 
